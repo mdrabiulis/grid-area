@@ -1,0 +1,16 @@
+
+.header, .main, .advertising, .fooder, .sidebar, .nav{
+    background-color: bisque;
+    border: 3px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+
+
+
+.container{
+    display: grid;
+    gap: 20px;
+}
